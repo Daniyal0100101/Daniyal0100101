@@ -20,4 +20,4 @@ Full-stack developer building AI-powered applications, workflow systems, and aut
 **Focus:** practical products, maintainable systems, real-world usefulness
 
 ## Currently focused on
-Building useful AI-native products and sharpening the systems behind them â€” from backend orchestration to product-grade UX.
+Building useful AI-native products and sharpening the systems behind them — from backend orchestration to product-grade UX.
