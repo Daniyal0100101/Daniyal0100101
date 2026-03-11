@@ -8,10 +8,10 @@ Full-stack developer building AI-powered applications, workflow systems, and aut
 - Real-time and operational interfaces where speed, clarity, and reliability matter
 
 ## Selected projects
-- **RescueRoute AI** â€” autonomous disaster-response fleet simulation built with Python, FastAPI, Gemini AI, and Next.js
-- **Prompt Optimizer** â€” Next.js app using Gemini to improve LLM prompts and outputs
-- **YT Video Summarizer** â€” AI-powered YouTube summarization with transcript-aware follow-up workflows
-- **JARVIS AI Assistant** â€” voice/text assistant with automation and multimodal AI tooling
+- **RescueRoute AI** - autonomous disaster-response fleet simulation built with Python, FastAPI, Gemini AI, and Next.js
+- **Prompt Optimizer** - Next.js app using Gemini to improve LLM prompts and outputs
+- **YT Video Summarizer** - AI-powered YouTube summarization with transcript-aware follow-up workflows
+- **JARVIS AI Assistant** - voice/text assistant with automation and multimodal AI tooling
 
 ## Stack
 **Backend:** Python, FastAPI, Flask  
@@ -20,4 +20,4 @@ Full-stack developer building AI-powered applications, workflow systems, and aut
 **Focus:** practical products, maintainable systems, real-world usefulness
 
 ## Currently focused on
-Building useful AI-native products and sharpening the systems behind them — from backend orchestration to product-grade UX.
+Building useful AI-native products and sharpening the systems behind them, from backend orchestration to product-grade UX.
