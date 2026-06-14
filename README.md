@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js;LLM+integrations+%C2%B7+Agent+loops;Full-stack+from+API+to+deployment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js;LLM+integrations+%C2%B7+Agentic+workflows;Full-stack+AI+systems+from+API+to+deployment)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,15 +18,15 @@
 
 <br/>
 
-Full-stack developer building AI-powered applications, workflow systems, and automation tools with **Python/FastAPI**, **React/Next.js**, and **LLM integrations**.
+Full-stack developer building AI-powered applications, agentic workflow systems, and automation tools with **Python/FastAPI**, **React/Next.js**, and **LLM integrations**.
 
 <br/>
 
 ## What I build
 
-- End-to-end web products with clean backend APIs and responsive frontends
-- AI tools for real-world workflows — not demos, things that actually run in production
-- Real-time interfaces where speed, clarity, and reliability matter
+- Full-stack AI products with clean APIs, usable interfaces, and practical deployment paths
+- Agentic systems that combine LLMs, state, workflows, and human-in-the-loop controls
+- Workflow tools where reliability, clarity, and execution matter more than novelty
 
 <br/>
 
@@ -36,54 +36,56 @@ Full-stack developer building AI-powered applications, workflow systems, and aut
 <tr>
 <td width="50%" valign="top">
 
-**🚨 RescueRoute AI**
+**🛡️ AegisFlow**
 
-Autonomous disaster-response fleet coordination — built solo in 48h at LabLab hackathon.
+Multi-agent operational decision simulation platform with workflow orchestration, critic review, and human override.
 
-- A\* pathfinding over a **2,500-cell dynamic grid** with live obstacle avoidance
-- SSE real-time sync at **1-second refresh cycles**
-- 3-tier microservice architecture, **2,100+ LOC** under hackathon constraints
+- Workflow graph engine with specialist agents, critic review, consensus resolution, and deterministic state mutation
+- Multi-domain simulation support across clinical triage, disaster response, and supply-chain coordination
+- Dockerized **FastAPI + Next.js** stack with sandbox/live Gemini execution and audit trail
 
-`FastAPI` `Next.js` `Gemini AI` `SSE` `Python`
+`FastAPI` `Next.js` `Gemini` `Docker` `Multi-Agent Systems` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**🧬 OncoTriage AI**
+**🚨 RescueRoute AI**
 
-Genomic variant review copilot for clinical decision support — ongoing.
+Autonomous disaster-response fleet coordination system built solo in 48h at a LabLab hackathon.
 
-- Evidence-lookup pipeline **decoupled from model scoring** to prevent overclaiming
-- Explicit inference-failure handling with safe LIVE / DEMO fallback modes
-- Provenance tracking built in from the start
+- A* pathfinding over a **2,500-cell dynamic grid** with live obstacle avoidance
+- SSE real-time sync at **1-second refresh cycles**
+- 3-tier microservice architecture with **2,100+ LOC** under hackathon constraints
 
-`Streamlit` `NVIDIA NIM Evo 2` `ClinVar` `Python`
+`FastAPI` `Next.js` `Gemini AI` `SSE` `Python`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**✍️ Prompt Optimizer**
+**🧬 OncoTriage AI**
 
-Web app for structured LLM prompt refinement and evaluation, live in production.
+Genomic variant review copilot for clinical decision-support workflows.
 
-- Modular architecture on **Vercel + Render**
-- Built for developers, not just tinkerers
+- Evidence lookup pipeline **decoupled from model scoring** to reduce overclaiming
+- Explicit inference-failure handling with safe LIVE / DEMO fallback modes
+- Provenance tracking designed into the review flow from the start
 
-`Next.js` `Gemini API` `Vercel`
+`Streamlit` `NVIDIA NIM Evo 2` `ClinVar` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**📺 YT Video Summarizer**
+**✍️ Prompt Optimizer**
 
-AI-powered YouTube summarization with transcript-aware follow-up Q&A.
+Web app for structured LLM prompt refinement, comparison, and output evaluation.
 
-- Transcript extraction with contextual conversation
-- Fast, minimal friction by design
+- Modular deployment across **Vercel + Render**
+- Built around prompt iteration, output comparison, and fast developer feedback
+- Simple production workflow with one-click copy and structured result views
 
-`Python` `LLM Workflows` `Streamlit`
+`Next.js` `Gemini API` `Vercel` `Render`
 
 </td>
 </tr>
@@ -125,4 +127,4 @@ AI-powered YouTube summarization with transcript-aware follow-up Q&A.
 
 ## Currently
 
-Shipping OncoTriage AI. Open to applied AI engineering roles where the problems are real and the bar is worth clearing.
+Building applied AI systems around agentic workflows, decision-support tooling, and full-stack product execution. Open to AI engineering roles where the work is real and the bar is worth clearing.
