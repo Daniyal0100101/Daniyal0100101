@@ -18,15 +18,15 @@
 
 <br/>
 
-Full-stack developer building AI-powered applications, agentic workflow systems, and automation tools with **Python/FastAPI**, **React/Next.js**, and **LLM integrations**.
+Full-stack engineer building applied AI products that stay clear, inspectable, and useful with **Python/FastAPI**, **React/Next.js**, and **LLM integrations**.
 
 <br/>
 
 ## What I build
 
-- Full-stack AI products with clean APIs, usable interfaces, and practical deployment paths
+- Practical AI tools with Python backends, React interfaces, and clear user flows
 - Agentic systems that combine LLMs, state, workflows, and human-in-the-loop controls
-- Workflow tools where reliability, clarity, and execution matter more than novelty
+- Working vertical slices where reliability and execution matter more than novelty
 
 <br/>
 
@@ -38,7 +38,7 @@ Full-stack developer building AI-powered applications, agentic workflow systems,
 
 **🛡️ AegisFlow**
 
-Multi-agent operational decision simulation platform with workflow orchestration, critic review, and human override.
+Multi-agent operational decision simulator with workflow orchestration, critic review, and human override.
 
 - Workflow graph engine with specialist agents, critic review, consensus resolution, and deterministic state mutation
 - Multi-domain simulation support across clinical triage, disaster response, and supply-chain coordination
@@ -53,7 +53,7 @@ Multi-agent operational decision simulation platform with workflow orchestration
 
 Autonomous disaster-response fleet coordination system built solo in 48h at a LabLab hackathon.
 
-- A* pathfinding over a **2,500-cell dynamic grid** with live obstacle avoidance
+- A\* pathfinding over a **2,500-cell dynamic grid** with live obstacle avoidance
 - SSE real-time sync at **1-second refresh cycles**
 - 3-tier microservice architecture with **2,100+ LOC** under hackathon constraints
 
@@ -70,22 +70,22 @@ Genomic variant review copilot for clinical decision-support workflows.
 
 - Evidence lookup pipeline **decoupled from model scoring** to reduce overclaiming
 - Explicit inference-failure handling with safe LIVE / DEMO fallback modes
-- Provenance tracking designed into the review flow from the start
+- Visible provenance tracking designed into the review flow from the start
 
 `Streamlit` `NVIDIA NIM Evo 2` `ClinVar` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**✍️ Prompt Optimizer**
+**✍️ AI Prompt Optimizer**
 
 Web app for structured LLM prompt refinement, comparison, and output evaluation.
 
-- Modular deployment across **Vercel + Render**
+- Production-ready deployment on **Vercel**
 - Built around prompt iteration, output comparison, and fast developer feedback
 - Simple production workflow with one-click copy and structured result views
 
-`Next.js` `Gemini API` `Vercel` `Render`
+`Next.js` `Gemini API` `Vercel`
 
 </td>
 </tr>
@@ -127,4 +127,4 @@ Web app for structured LLM prompt refinement, comparison, and output evaluation.
 
 ## Currently
 
-Building applied AI systems around agentic workflows, decision-support tooling, and full-stack product execution. Open to AI engineering roles where the work is real and the bar is worth clearing.
+Building applied AI systems around agentic workflows, decision-support tooling, and full-stack product execution. Open to remote AI/full-stack engineering roles where the work is real and the bar is worth clearing.
